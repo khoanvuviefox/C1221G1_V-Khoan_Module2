@@ -1,4 +1,4 @@
-package ClassOOPS.Exercise;
+package SS4_ClassOOPS.Exercise;
 
 import java.time.LocalTime;
 
@@ -24,7 +24,7 @@ public class TestStopWatch {
         LocalTime start = LocalTime.now();
         a=selectionSort(a);
         LocalTime end = LocalTime.now();
-        StopWatch sw = new StopWatch(start, end);
+        ClassOOPS.Exercise.StopWatch sw = new ClassOOPS.Exercise.StopWatch(start, end);
         System.out.println("Time: "+sw.getElapsedTime());
         for(int x : a){
             System.out.println(x);

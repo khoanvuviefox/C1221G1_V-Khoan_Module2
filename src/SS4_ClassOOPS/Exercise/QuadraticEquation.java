@@ -1,4 +1,4 @@
-package ClassOOPS.Exercise;
+package SS4_ClassOOPS.Exercise;
 
 public class QuadraticEquation {
     private Object seft = this;

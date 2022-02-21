@@ -1,4 +1,4 @@
-package ClassOOPS.Exercise;
+package SS4_ClassOOPS.Exercise;
 
 import java.time.LocalTime;
 
