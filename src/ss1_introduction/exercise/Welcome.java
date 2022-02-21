@@ -1,4 +1,4 @@
-package Introduction;
+package ss1_introduction.exercise;
 
 public class Welcome {
     public static void main (String [] arg) {
