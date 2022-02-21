@@ -1,11 +1,11 @@
-package SS4_ClassOOPS.Exercise;
+package ss4_class_oop.exercise;
 
 import java.util.Scanner;
 
 public class TestQuadratic {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println(ClassOOPS.Exercise.QuadraticEquation.explain());
+        System.out.println(QuadraticEquation.explain());
         System.out.println("nhập a: ");
         double a = sc.nextDouble();
         while (a == 0) {
@@ -19,7 +19,7 @@ public class TestQuadratic {
         System.out.println("nhập d: ");
         double d = sc.nextDouble();
 
-        ClassOOPS.Exercise.QuadraticEquation _2= new ClassOOPS.Exercise.QuadraticEquation(a,b,c,d);
+        QuadraticEquation _2= new QuadraticEquation(a,b,c,d);
         if (_2.getDiscriminant()>0){
             System.out.println("nghiệm 1: "+_2.getRoot1());
             System.out.println("nghiệm 2: "+_2.getRoot2());

@@ -1,4 +1,4 @@
-package SS4_ClassOOPS.Practice;
+package ss4_class_oop.practice;
 
 import java.util.Scanner;
 

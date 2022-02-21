@@ -1,4 +1,4 @@
-package ArraysMethods.Practice;
+package ss3_arrays_methods.practice;
 
 import java.util.Scanner;
 

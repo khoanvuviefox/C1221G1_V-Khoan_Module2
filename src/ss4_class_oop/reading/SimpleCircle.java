@@ -1,4 +1,4 @@
-package SS4_ClassOOPS.Read;
+package ss4_class_oop.reading;
 
 class SimpleCircle {
     double radius;

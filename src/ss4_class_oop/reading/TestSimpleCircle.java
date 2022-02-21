@@ -1,4 +1,4 @@
-package SS4_ClassOOPS.Read;
+package ss4_class_oop.reading;
 
 public class TestSimpleCircle {
     public static void main(String[] args) {

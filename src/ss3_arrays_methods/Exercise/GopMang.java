@@ -1,4 +1,4 @@
-package ArraysMethods.Exercise;
+package ss3_arrays_methods.exercise;
 
 import java.util.Arrays;
 public class GopMang {

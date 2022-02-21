@@ -1,4 +1,4 @@
-package Loop;
+package ss2_loop.exercise;
 
 public class NumbersFirstPrime {
     public static void main(String[] args) {

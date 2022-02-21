@@ -1,4 +1,4 @@
-package Introduction;
+package ss1_introduction.practice;
 
 import java.util.Scanner;
 

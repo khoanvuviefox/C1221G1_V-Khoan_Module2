@@ -1,4 +1,4 @@
-package ArraysMethods.Exercise;
+package ss3_arrays_methods.exercise;
 
 public class FindMinValuneInArrays {
     public static void main(String[] args) {

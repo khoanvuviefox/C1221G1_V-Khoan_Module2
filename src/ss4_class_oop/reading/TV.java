@@ -1,4 +1,4 @@
-package SS4_ClassOOPS.Read;
+package ss4_class_oop.reading;
 
 public class TV {
     int channel = 1;
