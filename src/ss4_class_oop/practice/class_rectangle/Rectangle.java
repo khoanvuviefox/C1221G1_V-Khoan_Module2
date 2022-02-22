@@ -1,4 +1,4 @@
-package ss4_class_oop.practice;
+package ss4_class_oop.practice.class_rectangle;
 
 import java.util.Scanner;
 
