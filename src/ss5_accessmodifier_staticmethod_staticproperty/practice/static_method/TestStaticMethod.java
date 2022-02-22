@@ -1,4 +1,4 @@
-package ss5_accessmodifier_staticmethod_staticproperty.practice;
+package ss5_accessmodifier_staticmethod_staticproperty.practice.static_method;
 
 public class TestStaticMethod {
     public static void main(String[] args) {
