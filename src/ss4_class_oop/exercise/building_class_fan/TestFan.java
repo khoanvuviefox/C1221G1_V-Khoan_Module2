@@ -1,4 +1,4 @@
-package ss4_class_oop.exercise;
+package ss4_class_oop.exercise.building_class_fan;
 
 public class TestFan {
     public static void main(String[] args) {
