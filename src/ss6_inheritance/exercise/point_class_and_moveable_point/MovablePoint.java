@@ -5,7 +5,7 @@ public class MovablePoint extends Point {
     private double ySpeed = 0;
 
 
-    public MovablePoint(double x, double y, double xSpeed, double ySpeed) {
+    public MovablePoint(float x, float y, float xSpeed, float ySpeed) {
         super(x, y);
         this.xSpeed = xSpeed;
         this.ySpeed = ySpeed;
@@ -14,11 +14,11 @@ public class MovablePoint extends Point {
     public MovablePoint() {
     }
 
-    public MovablePoint(double[] a) {
+    public MovablePoint(float[] a) {
         super(a[0], a[1]);
     }
 
-    public MovablePoint(double xSpeed, double ySpeed) {
+    public MovablePoint(float xSpeed, float ySpeed) {
         this.xSpeed = xSpeed;
         this.ySpeed = ySpeed;
     }
