@@ -51,8 +51,8 @@ public class MovablePoint extends Point {
     }
 
     public double[] getSpeed() {
-        double[] out = {this.xSpeed, this.ySpeed};
-        return out;
+        double[] test = {this.xSpeed, this.ySpeed};
+        return test;
     }
 
     @Override
