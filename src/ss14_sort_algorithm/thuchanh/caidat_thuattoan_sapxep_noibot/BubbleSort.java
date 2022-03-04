@@ -1,4 +1,4 @@
-package ss14_sort_algorithm.thuchanh.thuattoan_sapxep_noibot;
+package ss14_sort_algorithm.thuchanh.caidat_thuattoan_sapxep_noibot;
 
 public class BubbleSort {
     static int[] list = {2, 3, 4, 5, 6, 1, -2, 11, 10};
