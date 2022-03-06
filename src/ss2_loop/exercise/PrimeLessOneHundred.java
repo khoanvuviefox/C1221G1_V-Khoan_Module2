@@ -3,7 +3,7 @@ package ss2_loop.exercise;
 import java.util.Scanner;
 
 public class PrimeLessOneHundred {
-    private static Scanner scanner = new Scanner(System.in);
+    public static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
             int n = 100;
             System.out.printf("Tất cả các số nguyên tố nhỏ hơn %d là: \n", n);

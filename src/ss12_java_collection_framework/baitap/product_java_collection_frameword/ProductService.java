@@ -9,10 +9,10 @@ public class ProductService {
     Scanner scanner = new Scanner(System.in);
 
     public ProductService() {
-        products.add(new Product(2, "duong", 62, 5));
-        products.add(new Product(3, "dan", 74, 5));
-        products.add(new Product(4, "anh", 44, 5));
-        products.add(new Product(5, "cu", 43, 5));
+        products.add(new Product(2, "khoan", 62, 5));
+        products.add(new Product(3, "vu", 74, 5));
+        products.add(new Product(4, "dep", 44, 5));
+        products.add(new Product(5, "trai", 43, 5));
     }
 
     public void add(Product product) {

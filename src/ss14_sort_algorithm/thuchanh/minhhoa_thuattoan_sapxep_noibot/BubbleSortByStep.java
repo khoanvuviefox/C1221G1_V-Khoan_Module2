@@ -41,7 +41,7 @@ public class BubbleSortByStep {
                 System.out.println("Array may be sorted and next pass not needed");
                 break;
             }
-           
+
             System.out.print("List after the  " + k + "' sort: ");
             for (int j = 0; j < list.length; j++) {
                 System.out.print(list[j] + "\t");
