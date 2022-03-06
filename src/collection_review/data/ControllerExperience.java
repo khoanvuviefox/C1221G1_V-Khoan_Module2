@@ -1,4 +1,4 @@
-package collection_review.manage_candidates_of_company;
+package collection_review.data;
 
 import collection_review.function.ExperienceFunction;
 import collection_review.function.Function;

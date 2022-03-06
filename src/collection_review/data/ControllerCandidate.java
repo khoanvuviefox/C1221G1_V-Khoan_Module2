@@ -1,4 +1,4 @@
-package collection_review.manage_candidates_of_company;
+package collection_review.data;
 
 import java.util.Scanner;
 
