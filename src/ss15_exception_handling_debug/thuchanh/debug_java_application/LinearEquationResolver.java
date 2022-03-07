@@ -1,4 +1,4 @@
-package ss15_exception_handling_debug.thuchanh;
+package ss15_exception_handling_debug.thuchanh.debug_java_application;
 
 import java.util.Scanner;
 
